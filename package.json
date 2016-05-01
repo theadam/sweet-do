@@ -1,0 +1,16 @@
+{
+  "name": "sweet-do",
+  "version": "0.0.1",
+  "description": "Do notation using sweetjs",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theadam/sweet-do.git"
+  },
+  "keywords": [
+  ],
+  "scripts": {
+  },
+  "author": "Adam Nalisnick",
+  "license": "MIT"
+}
